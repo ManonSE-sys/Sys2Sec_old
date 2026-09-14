@@ -299,7 +299,8 @@ Il peut notamment être utilisé pour :
 
 Les différents artefacts identifiés durant le lab peuvent être synthétisés sous forme d'IOC.
 
-| Type	| Valeur	| Contexte |
+| Type	| Valeur | Contexte |
+|---|---|---|
 | Adresse email	| `Accounts.Payable@groupmarketingonline.icu`	| Adresse utilisée pour l'envoi du phishing |
 | Domaine	| `kennaroads.buzz`	| Infrastructure de redirection |
 | Fichier |	`Update365.zip`	| Archive associée au kit de phishing |
