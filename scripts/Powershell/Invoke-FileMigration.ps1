@@ -3,9 +3,6 @@
     Copie récursivement des données avec Robocopy.
 
 .DESCRIPTION
-    Exemple de script PowerShell permettant d'automatiser une migration
-    de fichiers avec Robocopy.
-
     Fonctionnalités :
     - copie des sous-répertoires ;
     - plusieurs tentatives en cas d'échec ;
