@@ -194,3 +194,9 @@ Pour comprendre pourquoi une stratégie est ou non appliquée, plusieurs éléme
 - le type de configuration : **User** ou **Computer**.
 
 Les commandes `gpresult`, `gpupdate` et `rsop.msc` sont également importantes pour diagnostiquer les problèmes liés à l'application des stratégies.
+
+# 🔗 Mise en pratique
+
+J'ai également travaillé ces notions dans un lab TryHackMe consacré au durcissement d'Active Directory et aux stratégies de groupe.
+
+👉 [Voir le lab Active Directory Hardening](../../labs/tryhackme/active-directory-hardening/README.md)
